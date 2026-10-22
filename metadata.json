@@ -1,0 +1,8 @@
+{
+  "name": "EXCELLENTIA ADMISSION ASSESSMENT",
+  "description": "Sistem Asesmen Penerimaan Calon Peserta Didik Baru SMP Sekolah Alam Excellentia Pamekasan. Kenali Potensi, Tumbuhkan Karakter, Siapkan Pemimpin Masa Depan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
